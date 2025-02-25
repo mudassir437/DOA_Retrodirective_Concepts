@@ -16,7 +16,6 @@ This repository contains **Python scripts** that demonstrate key **Direction of 
 - **Antenna Deformation Compensation Script**\
   Compensates for **beam misalignment** caused by structural deformations in antennas.
 
-These scripts **are not exact research implementations**, but **conceptual demonstrations** of signal processing techniques used in **SBSP applications**. They helped establish a foundation before conducting **CST simulations** and **real anechoic chamber experiments** with **LabVIEW/GNU Radio-based software-defined radios**, validating these techniques for **wireless power transmission**.
 
 ## Full Commentary
 
