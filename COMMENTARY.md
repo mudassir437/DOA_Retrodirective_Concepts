@@ -6,7 +6,7 @@ The **DOA Error vs. SNR script** analyzes **error vs. SNR** for different baseli
 
 These Python scripts are **conceptual demonstrations**, not exact research implementations, illustrating key **signal processing techniques** for SBSP.
 
-They provided a foundation before conducting **CST simulations** and **real anechoic chamber experiments** with **LabVIEW/GNU Radio-based software-defined radios**, validating these techniques for **wireless power transmission**.
+They provided a foundation before conducting **CST Studio simulations** and **real anechoic chamber experiments** with **LabVIEW/GNU Radio-based software-defined radios**, validating these techniques for **wireless power transmission**.
 
 This work strengthened my **Python programming skills**, particularly in numerical computing, data visualization, and signal processing. I applied **NumPy** for signal processing, **Matplotlib** for analyzing beamforming patterns, and implemented phase conjugation and least squares fitting techniques.
 
